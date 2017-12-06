@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-xhdpi/startbg.9.png",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-xhdpi/startbg.9.png"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-xhdpi/startbg.9.png",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-xhdpi/startbg.9.png"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-xhdpi/callbg.9.png",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-xhdpi/callbg.9.png"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-xhdpi/callbg.9.png",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-xhdpi/callbg.9.png"
+    }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/arjun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_f330ef457b01d2e847364a2ef30ecd26f751e090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arjun/.android/build-cache/8422f8fd58e6cc4b086e4a8e079619d63450a035/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/classes_8e359d61694b7a1d218b7ebe41a7e930b56fc9bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arjun/.android/build-cache/6ee5166ec2e6072861eafccaca158e71d38d55d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d335cc337e32f5483347c848644d4bc4dab1b30">
+        <dex dex="/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/classes_1803dd27830f7fdf295cb417b40052ae5b1fc297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arjun/.android/build-cache/8422f8fd58e6cc4b086e4a8e079619d63450a035/output/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_54549344e6b38f2fd67c2e8d245a52f36cb078b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arjun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_f330ef457b01d2e847364a2ef30ecd26f751e090.jar" />
+    </item>
+
+</items>

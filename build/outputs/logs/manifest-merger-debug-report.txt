@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:3:11-57
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.microphone
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:7:5-9:39
+	android:required
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:9:13-37
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:8:13-55
+uses-permission#android.permission.INTERNET
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:15:22-72
+application
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:17:5-35:19
+MERGED from [:sinch-android-rtc:3.11.1] /Users/arjun/.android/build-cache/6ee5166ec2e6072861eafccaca158e71d38d55d5/output/AndroidManifest.xml:11:5-19:19
+MERGED from [com.android.support:support-v4:23.1.0] /Users/arjun/.android/build-cache/8422f8fd58e6cc4b086e4a8e079619d63450a035/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:20:13-45
+	android:allowBackup
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:18:13-39
+	android:icon
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:19:13-42
+	android:theme
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:21:13-44
+service#com.sinch.android.rtc.sample.calling.SinchService
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:22:18-46
+activity#com.sinch.android.rtc.sample.calling.LoginActivity
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:23:9-31:20
+	android:screenOrientation
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:26:17-53
+	android:label
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:25:17-49
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:24:17-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:29:27-74
+activity#com.sinch.android.rtc.sample.calling.CallScreenActivity
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:32:9-92
+	android:screenOrientation
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:32:54-90
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:32:19-53
+activity#com.sinch.android.rtc.sample.calling.IncomingCallScreenActivity
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:33:9-100
+	android:screenOrientation
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:33:62-98
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:33:19-61
+activity#com.sinch.android.rtc.sample.calling.PlaceCallActivity
+ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:34:9-91
+	android:screenOrientation
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:34:53-89
+	android:name
+		ADDED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml:34:19-52
+uses-sdk
+INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:sinch-android-rtc:3.11.1] /Users/arjun/.android/build-cache/6ee5166ec2e6072861eafccaca158e71d38d55d5/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.0] /Users/arjun/.android/build-cache/8422f8fd58e6cc4b086e4a8e079619d63450a035/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+		INJECTED from /Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/AndroidManifest.xml
+service#com.sinch.android.rtc.internal.client.gcm.InstanceIDTokenService
+ADDED from [:sinch-android-rtc:3.11.1] /Users/arjun/.android/build-cache/6ee5166ec2e6072861eafccaca158e71d38d55d5/output/AndroidManifest.xml:12:9-18:19
+	android:exported
+		ADDED from [:sinch-android-rtc:3.11.1] /Users/arjun/.android/build-cache/6ee5166ec2e6072861eafccaca158e71d38d55d5/output/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:sinch-android-rtc:3.11.1] /Users/arjun/.android/build-cache/6ee5166ec2e6072861eafccaca158e71d38d55d5/output/AndroidManifest.xml:13:13-92
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from [:sinch-android-rtc:3.11.1] /Users/arjun/.android/build-cache/6ee5166ec2e6072861eafccaca158e71d38d55d5/output/AndroidManifest.xml:15:13-17:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from [:sinch-android-rtc:3.11.1] /Users/arjun/.android/build-cache/6ee5166ec2e6072861eafccaca158e71d38d55d5/output/AndroidManifest.xml:16:17-80
+	android:name
+		ADDED from [:sinch-android-rtc:3.11.1] /Users/arjun/.android/build-cache/6ee5166ec2e6072861eafccaca158e71d38d55d5/output/AndroidManifest.xml:16:25-77

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_decline.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_decline.xml"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_end.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_end.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_decline.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_decline.xml"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/inputbox.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/inputbox.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/inputbox.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/inputbox.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_accept.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_accept.xml"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_accept.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_accept.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_login.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_login.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_end.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_end.xml"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_login.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_login.xml"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_call.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_call.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable/button_call.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable/button_call.xml"
+    }
+]

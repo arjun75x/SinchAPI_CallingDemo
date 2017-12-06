@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/layout/callscreen.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/layout/callscreen.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/layout/callscreen.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/layout/callscreen.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/layout/incoming.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/layout/incoming.xml"
+    },
+    {
+        "merged": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/arjun/Documents/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/layout/incoming.xml",
+        "source": "/Users/arjun/Downloads/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/layout/incoming.xml"
+    }
+]
